@@ -8,8 +8,6 @@ This project is a simple Flashcard Learning Tool built using React for the front
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
