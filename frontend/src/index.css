@@ -1,0 +1,45 @@
+/* src/index.css or src/App.css */
+
+:root {
+  --background-color: #121212;
+  --primary-color: #1f1f1f;
+  --text-color: #ffffff;
+  --card-background: #1e1e1e;
+  --button-background: #333333;
+  --button-hover-background: #444444;
+  --border-color: #2c2c2c;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: var(--button-background);
+  color: var(--text-color);
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--button-hover-background);
+}
+
+input {
+  background-color: var(--card-background);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 10px;
+  margin: 5px;
+}
+
+h2 {
+  color: var(--text-color);
+}
