@@ -1,12 +1,11 @@
 # Flashcard Learning Tool
-
+### link: https://tuf-flashcard.netlify.app/
 This project is a simple Flashcard Learning Tool built using React for the frontend and Node.js with MySQL for the backend. It allows users to flip through flashcards, view questions, reveal answers, and navigate between cards. An admin dashboard is also available for managing flashcards, including adding, editing, deleting, and searching for flashcards.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
 - [Screenshots](#screenshots)
 
 ## Features
